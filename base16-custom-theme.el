@@ -7,11 +7,11 @@
 
 (deftheme base16-custom)
 
-(let ((background "#202020")
-      (current-line "#303030")
-      (selection "#505050")
-      (foreground "#e0e0e0")
-      (comment "#b0b0b0")
+(let ((background "#151515")
+      (current-line "#1a1a1a")
+      (selection "#404040")
+      (foreground "#b0b0b0")
+      (comment "#505050")
       (cursor "#e0e0e0")
       (red "#ac4142")
       (orange "#d28445")
